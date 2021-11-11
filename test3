@@ -1,6 +1,0 @@
-select name,roll_num,date from temp_db 
-
-where name =::[''[DNAVEEN YADAV'
-date=getdate()[A[C[C[C[C[C[C[C[C[C[C[C[C[C
-and
-[A[A[B[B[A[C[C[C
